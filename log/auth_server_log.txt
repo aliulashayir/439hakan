@@ -1,0 +1,42 @@
+2024-01-19 19:01:15,279 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:01:32,296 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:02:17,176 - INFO - [*] Accepted connection from 127.0.0.1:53367
+2024-01-19 19:27:50,695 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:27:57,166 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:28:32,426 - INFO - [*] Accepted connection from 127.0.0.1:54183
+2024-01-19 19:28:37,549 - INFO - Authentication successful for user: user1
+2024-01-19 19:30:15,324 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:30:53,386 - INFO - [*] Accepted connection from 127.0.0.1:54275
+2024-01-19 19:30:57,382 - INFO - Authentication successful for user: user1
+2024-01-19 19:32:24,906 - INFO - [*] Accepted connection from 127.0.0.1:54355
+2024-01-19 19:32:30,167 - INFO - Authentication successful for user: user1
+2024-01-19 19:34:44,049 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:35:14,082 - INFO - [*] Accepted connection from 127.0.0.1:54470
+2024-01-19 19:35:17,334 - INFO - Authentication successful for user: user1
+2024-01-19 19:38:07,841 - INFO - [*] Accepted connection from 127.0.0.1:54562
+2024-01-19 19:38:12,062 - INFO - Authentication successful for user: user1
+2024-01-19 19:43:54,233 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:45:08,826 - INFO - [*] Accepted connection from 127.0.0.1:54795
+2024-01-19 19:45:13,446 - INFO - Authentication successful for user: user1
+2024-01-19 19:50:36,469 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 19:50:59,947 - INFO - [*] Accepted connection from 127.0.0.1:54975
+2024-01-19 19:51:03,622 - INFO - Authentication successful for user: user1
+2024-01-19 20:58:04,426 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 20:58:36,449 - INFO - [*] Accepted connection from 127.0.0.1:57235
+2024-01-19 20:58:41,875 - INFO - Authentication successful for user: user1
+2024-01-19 22:17:19,518 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 22:17:52,284 - INFO - [*] Accepted connection from 127.0.0.1:59741
+2024-01-19 22:17:56,889 - INFO - Authentication successful for user: user1
+2024-01-19 22:19:10,117 - INFO - [*] Accepted connection from 127.0.0.1:59791
+2024-01-19 22:19:14,792 - INFO - Authentication successful for user: user2
+2024-01-19 22:33:52,625 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 22:34:31,468 - INFO - [*] Accepted connection from 127.0.0.1:60241
+2024-01-19 22:34:40,312 - INFO - Authentication successful for user: user1
+2024-01-19 23:02:56,903 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
+2024-01-19 23:03:43,810 - INFO - [*] Accepted connection from 127.0.0.1:61141
+2024-01-19 23:04:00,047 - INFO - Authentication successful for user: user1
+2024-01-19 23:04:37,506 - INFO - [*] Accepted connection from 127.0.0.1:61164
+2024-01-19 23:04:39,350 - WARNING - Authentication failed for user: user1
+2024-01-19 23:04:44,163 - INFO - [*] Accepted connection from 127.0.0.1:61167
+2024-01-19 23:04:45,583 - WARNING - Authentication failed for user: asdgasgasdg
+2024-05-29 01:30:45,249 - INFO - [*] Authentication Server listening on 127.0.0.1:12345
