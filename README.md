@@ -1,6 +1,8 @@
 # Kerberos
 This is a simplified implementation of the Kerberos IBM system.
 
+The keys are generated with OpenSSL and are toy keys they are not used in any application
+
 ## System Overview
 The system consists of three main components:
 
